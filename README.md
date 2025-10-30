@@ -84,7 +84,7 @@
       </td>
       <td width="60%" align="left" style="border: none;">
         <p>
-          Howdy! My name is Guanyi Grace Li, a 19 year old junior at Texas A&M University pursuing 
+          Howdy! My name is Guanyi Grace Li, a 20 year old junior at Texas A&M University pursuing 
           a BBA in Accounting and MS in Financial Management.
           More excitingly, I'm also completing a minor in Studio Art, a subject I've loved forever.
           Aside from reading and going on long walks, art is my favorite creative side quest, 
