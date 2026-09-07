@@ -90,12 +90,6 @@
   <img src="8caee74cd8aa87f37bc12f53c5ff5aee.jpg" width="30%" alt="Artwork 1"/>   <img src="65058D0E-6FB1-474F-BF78-9001CC102DF2.jpg" width="30%" alt="Artwork 1"/>   <img src="IMG_5734.jpg" width="30%" alt="Artwork 1"/><br/><br/>
   <img src="37c541f4ea3730d9e0deaa1820e548c9.jpg" width="32%" alt="Artwork 2"/>   <img src="bad071ce297e187d327b0feb26507510.jpg" width="32%" alt="Artwork 2"/>   <img src="IMG_0339 (1).jpg" width="30%" alt="Artwork 1"/>
 
-  <h2 align="center">Open for Inquiries at guanyigrace@gmail.com</h2>
-<p align="center">Rates: $0.25-0.50/sq in of chalkboard (varies with detail) | Payment accepted through cash, Zelle, or gift card | Chalk markers provided</p>
-<p align="center">Examples are my work from Pappasito's Cantina, Sugar Land, 2023.
-</p>
-
-
 </p>
 
 ---
