@@ -6,31 +6,6 @@
 
 ---
 
-<h2 align="center">𝑨𝑩𝑶𝑼𝑻</h2>
-
-<p align="center">
-  <div align="center">
-  <table style="border: none;">
-    <tr>
-      <td width="30%" align="center" style="border: none;">
-        <img src="E08FA552-DF5B-40D7-8753-B696321E9BA6.jpg" alt="Sample Art" width="80%">
-      </td>
-      <td width="60%" align="left" style="border: none;">
-        <p>
-          Howdy! I'm Guanyi Grace Li, a 20 year old senior at Texas A&M University pursuing 
-          a BBA in Accounting and MS in Financial Management.
-          More excitingly, I'm also completing a minor in Studio Art, a subject I've loved forever.
-          Aside from reading, playing chess, and going on long walks, making art is my favorite pasttime, 
-          and it's definitely been the one I've been doing the longest. 
-          This website's purpose is to document my hobby so I can look back on my favorite pieces, skill development, and progression.
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 <h2 align="center">𝑺𝑲𝑬𝑻𝑪𝑯𝑩𝑶𝑶𝑲</h2>
 
 <p align="center">
