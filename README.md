@@ -1,14 +1,8 @@
 
 <p>  <br/><br/><br/></p>
-<h1 align="center"> 𝑮𝑼𝑨𝑵𝒀𝑰 𝑮𝑹𝑨𝑪𝑬 𝑳𝑰 </h1>
+<h1 align="center">𝑮𝑼𝑨𝑵𝒀𝑰 𝑮𝑹𝑨𝑪𝑬 𝑳𝑰</h1>
 
-<h2 align="center">Fine Arts | Photography | Design </h2>
-<p align="center">A collection of works from 2021 to 2025.</p>
-
-<p align="center">
-  <a href="https://instagram.com/guanyigraceli" target="_blank">instagram</a> •
-  <a href="guanyigrace@gmail.com">email</a>
-</p>
+<h2 align="center">Fine Arts | Photography | Design</h2>
 
 ---
 
@@ -102,6 +96,11 @@
   Open to business inquiries at guanyigrace@gmail.com<br/><br/>
   <img src="prof1.jpg" width="40%" alt="Artwork 1"/><br/>
 </p>
+<p align="center">
+  <a href="https://instagram.com/guanyigraceli" target="_blank">instagram</a> •
+  <a href="guanyigrace@gmail.com">email</a>
+</p>
+
 
 ---
 
