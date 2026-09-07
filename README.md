@@ -76,8 +76,7 @@
 
 ---
 
-  
-</p>
+
 <h2 align="center">𝑪𝑶𝑵𝑻𝑨𝑪𝑻</h2>
 
 <p align="center">
