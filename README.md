@@ -5,7 +5,8 @@
 <h2 align="center">Fine Arts | Photography | Design</h2>
 
 ---
-<br/><br/>
+
+
 <h2 align="center">𝑺𝑲𝑬𝑻𝑪𝑯𝑩𝑶𝑶𝑲</h2>
 
 <p align="center">
@@ -14,8 +15,11 @@
  <img src="sb4.jpeg" width="25%" alt="Artwork 1"/>   <img src="sb2.jpg" width="22%" alt="Artwork 1"/>   <img src="sb3.jpeg" width="26%" alt="Artwork 1"/>   <img src="sb1.jpg" width="25%" alt="Artwork 1"/><br/><br/><img src="IMG_4351.jpg" width="25%" alt="Artwork 2"/>   <img src="IMG_7568.jpg" width="23%" alt="Artwork 1"/>   <img src="IMG_7569.jpg" width="23%" alt="Artwork 3"/>   <img src="IMG_4720.jpg" width="25%" alt="Artwork 1"/>
   
 </p>
+
+
 ---
-<br/><br/>
+
+
 <h2 align="center">𝑷𝑨𝑰𝑵𝑻</h2>
 
 <p align="center">
@@ -23,8 +27,10 @@
   <img src="IMG_1511.jpg" width="30%" alt="Artwork 3"/>   <img src="IMG_7207.jpg" width="30%" alt="Artwork 1"/>   <img src="IMG_4142.jpg" width="30%" alt="Artwork 1"/>
 </p>
 
+
 ---
-<br/><br/>
+
+
 <h2 align="center">𝑴𝑶𝑵𝑶𝑪𝑯𝑹𝑶𝑴𝑬 </h2>
 
 <p align="center">
@@ -32,7 +38,9 @@
   <img src="IMG_7623.jpg" width="23%" alt="Artwork 1"/>   <img src="IMG_2364.jpg" width="42%" alt="Artwork 3"/>   <img src="IMG_7706.jpg" width="23%" alt="Artwork 1"/>
 </p>
 
+
 ---
+
 
 <h2 align="center">𝑫𝑰𝑮𝑰𝑻𝑨𝑳</h2>
 
@@ -41,7 +49,9 @@
   <img src="Untitled_Artwork (3).PNG" width="70%" alt="Artwork 1"/> <br/> <img src="Untitled_Artwork (7).PNG" width="24%" alt="Artwork 2"/>   <img src="Untitled_Artwork.jpg" width="43%" alt="Artwork 2"/>  <img src="IMG_1294.PNG" width="24%" alt="Artwork 2"/>
 </p>
 
+
 ---
+
 
 <h2 align="center">𝑭𝑳𝑰𝑪𝑲𝑺</h2>
 
@@ -51,7 +61,9 @@
   <img src="IMG_3373.jpg" width="25%" alt="Artwork 3"/>   <img src="IMG_3357.jpg" width="25%" alt="Artwork 1"/>   <img src="IMG_8951.jpg" width="46%" alt="Artwork 1"/>
 </p>
 
+
 ---
+
 
 <h2 align="center">𝑪𝑯𝑨𝑳𝑲𝑩𝑶𝑨𝑹𝑫 𝑨𝑫𝑺</h2>
 
@@ -60,6 +72,7 @@
   <img src="37c541f4ea3730d9e0deaa1820e548c9.jpg" width="32%" alt="Artwork 2"/>   <img src="bad071ce297e187d327b0feb26507510.jpg" width="32%" alt="Artwork 2"/>   <img src="IMG_0339 (1).jpg" width="30%" alt="Artwork 1"/>
 
 </p>
+
 
 ---
 
