@@ -25,7 +25,7 @@
 <h2 align="center">𝑷𝑨𝑰𝑵𝑻</h2>
 
 <p align="center">
-  <img src="IMG_7307.jpg" width="35%" alt="Artwork 1"/>   <img src="IMG_9625.jpg" width="30%" alt="Artwork 1"/>   <img src="IMG_0049.jpg" width="25%" alt="Artwork 2"/><br/><br/>
+  <img src="IMG_7307.jpg" width="36%" alt="Artwork 1"/>   <img src="IMG_9625.jpg" width="28%" alt="Artwork 1"/>   <img src="IMG_0049.jpg" width="25%" alt="Artwork 2"/><br/><br/>
   <img src="IMG_1511.jpg" width="30%" alt="Artwork 3"/>   <img src="IMG_7207.jpg" width="30%" alt="Artwork 1"/>   <img src="IMG_4142.jpg" width="30%" alt="Artwork 1"/>
 </p>
 
@@ -34,7 +34,7 @@
 <h2 align="center">𝑴𝑶𝑵𝑶𝑪𝑯𝑹𝑶𝑴𝑬 </h2>
 
 <p align="center">
-  <img src="IMG_0021.jpg" width="27%" alt="Artwork 1"/>   <img src="IMG_4071.JPG" width="27%" alt="Artwork 1"/>   <img src="IMG_1895.jpg" width="30%" alt="Artwork 2"/><br/><br/>
+  <img src="IMG_0021.jpg" width="27%" alt="Artwork 1"/>   <img src="IMG_4071.JPG" width="27%" alt="Artwork 1"/>   <img src="IMG_1895.jpg" width="28%" alt="Artwork 2"/><br/><br/>
   <img src="IMG_7623.jpg" width="23%" alt="Artwork 1"/>   <img src="IMG_2364.jpg" width="42%" alt="Artwork 3"/>   <img src="IMG_7706.jpg" width="23%" alt="Artwork 1"/>
 </p>
 
@@ -52,7 +52,7 @@
 <h2 align="center">𝑭𝑳𝑰𝑪𝑲𝑺</h2>
 
 <p align="center">
-  <img src="mod1.jpeg" width="40%" alt="Artwork 1"/>   <img src="mod2.jpeg" width="25%" alt="Artwork 1"/>   <img src="mod3.jpg" width="25%" alt="Artwork 2"/>   <img src="mod4.jpg" width="25%" alt="Artwork 2"/><br/><br/>
+  <img src="mod1.jpeg" width="25%" alt="Artwork 1"/>   <img src="mod2.jpeg" width="25%" alt="Artwork 1"/>   <img src="mod3.jpg" width="23%" alt="Artwork 2"/>   <img src="mod4.jpg" width="23%" alt="Artwork 2"/><br/><br/>
   <img src="IMG_3406.jpg" width="40%" alt="Artwork 1"/>   <img src="IMG_3583 (1).jpg" width="25%" alt="Artwork 1"/>   <img src="IMG_3428.jpg" width="25%" alt="Artwork 2"/><br/><br/>
   <img src="IMG_3373.jpg" width="25%" alt="Artwork 3"/>   <img src="IMG_3357.jpg" width="25%" alt="Artwork 1"/>   <img src="IMG_8951.jpg" width="43%" alt="Artwork 1"/>
 </p>
