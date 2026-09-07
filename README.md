@@ -6,7 +6,6 @@
 
 ---
 <br/><br/>
-<br/><br/>
 <h2 align="center">𝑺𝑲𝑬𝑻𝑪𝑯𝑩𝑶𝑶𝑲</h2>
 
 <p align="center">
@@ -17,7 +16,6 @@
 </p>
 ---
 <br/><br/>
-<br/><br/>
 <h2 align="center">𝑷𝑨𝑰𝑵𝑻</h2>
 
 <p align="center">
@@ -26,7 +24,7 @@
 </p>
 
 ---
-
+<br/><br/>
 <h2 align="center">𝑴𝑶𝑵𝑶𝑪𝑯𝑹𝑶𝑴𝑬 </h2>
 
 <p align="center">
