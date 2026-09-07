@@ -99,6 +99,7 @@
 <h2 align="center">𝑪𝑶𝑵𝑻𝑨𝑪𝑻</h2>
 
 <p align="center">
+  <img src="prof1.jpg" width="30%" alt="Artwork 1"/>
   Open to business inquiries at guanyigrace@gmail.com<br/>
 </p>
 
