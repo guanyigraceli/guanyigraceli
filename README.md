@@ -5,7 +5,8 @@
 <h2 align="center">Fine Arts | Photography | Design</h2>
 
 ---
-
+<br/><br/>
+<br/><br/>
 <h2 align="center">𝑺𝑲𝑬𝑻𝑪𝑯𝑩𝑶𝑶𝑲</h2>
 
 <p align="center">
@@ -15,7 +16,8 @@
   
 </p>
 ---
-
+<br/><br/>
+<br/><br/>
 <h2 align="center">𝑷𝑨𝑰𝑵𝑻</h2>
 
 <p align="center">
