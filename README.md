@@ -11,28 +11,14 @@
 </p>
 
 ---
-<h2 align="center">𝑪𝑯𝑨𝑳𝑲𝑩𝑶𝑨𝑹𝑫 𝑨𝑫𝑺</h2>
 
-<p align="center">
-  <img src="8caee74cd8aa87f37bc12f53c5ff5aee.jpg" width="30%" alt="Artwork 1"/>   <img src="65058D0E-6FB1-474F-BF78-9001CC102DF2.jpg" width="30%" alt="Artwork 1"/>   <img src="IMG_5734.jpg" width="30%" alt="Artwork 1"/><br/><br/>
-  <img src="37c541f4ea3730d9e0deaa1820e548c9.jpg" width="32%" alt="Artwork 2"/>   <img src="bad071ce297e187d327b0feb26507510.jpg" width="32%" alt="Artwork 2"/>   <img src="IMG_0339 (1).jpg" width="30%" alt="Artwork 1"/>
-
-  <h2 align="center">Open for Inquiries at guanyigrace@gmail.com</h2>
-<p align="center">Rates: $0.25-0.50/sq in of chalkboard (varies with detail) | Payment accepted through cash, Zelle, or gift card | Chalk markers provided</p>
-<p align="center">Examples are my work from Pappasito's Cantina, Sugar Land, 2023.
-</p>
-
-
-</p>
-
-
----
 <h2 align="center">𝑺𝑲𝑬𝑻𝑪𝑯𝑩𝑶𝑶𝑲</h2>
 
 <p align="center">
   <img src="IMG_4179.jpg" width="32%" alt="Artwork 1"/>   <img src="IMG_3904.PNG" width="25%" alt="Artwork 1"/>   <img src="IMG_7571.jpg" width="30%" alt="Artwork 1"/><br/><br/>
   <img src="IMG_2372.jpg" width="25%" alt="Artwork 2"/>   <img src="IMG_4137.jpg" width="25%" alt="Artwork 1"/>   <img src="IMG_2374.jpg" width="45%" alt="Artwork 1"/><br/><br/>
   <img src="IMG_4351.jpg" width="25%" alt="Artwork 2"/>   <img src="IMG_7568.jpg" width="22%" alt="Artwork 1"/>   <img src="IMG_7569.jpg" width="22%" alt="Artwork 3"/>   <img src="IMG_4720.jpg" width="25%" alt="Artwork 1"/>
+ <img src="sb1.jpg" width="32%" alt="Artwork 1"/>   <img src="sb2.jpg" width="25%" alt="Artwork 1"/>   <img src="sb3.jpg" width="30%" alt="Artwork 1"/>   <img src="sb4.jpg" width="30%" alt="Artwork 1"/><br/><br/>
   
 </p>
 ---
@@ -67,8 +53,25 @@
 <h2 align="center">𝑭𝑳𝑰𝑪𝑲𝑺</h2>
 
 <p align="center">
+  <img src="mod1.jpeg" width="40%" alt="Artwork 1"/>   <img src="mod2.jpeg" width="25%" alt="Artwork 1"/>   <img src="mod3.jpg" width="25%" alt="Artwork 2"/>   <img src="mod4.jpg" width="25%" alt="Artwork 2"/><br/><br/>
   <img src="IMG_3406.jpg" width="40%" alt="Artwork 1"/>   <img src="IMG_3583 (1).jpg" width="25%" alt="Artwork 1"/>   <img src="IMG_3428.jpg" width="25%" alt="Artwork 2"/><br/><br/>
   <img src="IMG_3373.jpg" width="25%" alt="Artwork 3"/>   <img src="IMG_3357.jpg" width="25%" alt="Artwork 1"/>   <img src="IMG_8951.jpg" width="43%" alt="Artwork 1"/>
+</p>
+
+---
+
+<h2 align="center">𝑪𝑯𝑨𝑳𝑲𝑩𝑶𝑨𝑹𝑫 𝑨𝑫𝑺</h2>
+
+<p align="center">
+  <img src="8caee74cd8aa87f37bc12f53c5ff5aee.jpg" width="30%" alt="Artwork 1"/>   <img src="65058D0E-6FB1-474F-BF78-9001CC102DF2.jpg" width="30%" alt="Artwork 1"/>   <img src="IMG_5734.jpg" width="30%" alt="Artwork 1"/><br/><br/>
+  <img src="37c541f4ea3730d9e0deaa1820e548c9.jpg" width="32%" alt="Artwork 2"/>   <img src="bad071ce297e187d327b0feb26507510.jpg" width="32%" alt="Artwork 2"/>   <img src="IMG_0339 (1).jpg" width="30%" alt="Artwork 1"/>
+
+  <h2 align="center">Open for Inquiries at guanyigrace@gmail.com</h2>
+<p align="center">Rates: $0.25-0.50/sq in of chalkboard (varies with detail) | Payment accepted through cash, Zelle, or gift card | Chalk markers provided</p>
+<p align="center">Examples are my work from Pappasito's Cantina, Sugar Land, 2023.
+</p>
+
+
 </p>
 
 ---
@@ -87,7 +90,7 @@
           Howdy! I'm Guanyi Grace Li, a 20 year old senior at Texas A&M University pursuing 
           a BBA in Accounting and MS in Financial Management.
           More excitingly, I'm also completing a minor in Studio Art, a subject I've loved forever.
-          Aside from reading and going on long walks, art is my favorite creative side quest, 
+          Aside from reading, playing chess, and going on long walks, making art is my favorite pasttime, 
           and it's definitely been the one I've been doing the longest. 
           This website's purpose is to document my hobby so I can look back on my favorite pieces, skill development, and progression.
         </p>
