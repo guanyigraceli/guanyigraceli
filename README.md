@@ -12,12 +12,37 @@
 
 ---
 
+<h2 align="center">𝑨𝑩𝑶𝑼𝑻</h2>
+
+<p align="center">
+  <div align="center">
+  <table style="border: none;">
+    <tr>
+      <td width="30%" align="center" style="border: none;">
+        <img src="E08FA552-DF5B-40D7-8753-B696321E9BA6.jpg" alt="Sample Art" width="80%">
+      </td>
+      <td width="60%" align="left" style="border: none;">
+        <p>
+          Howdy! I'm Guanyi Grace Li, a 20 year old senior at Texas A&M University pursuing 
+          a BBA in Accounting and MS in Financial Management.
+          More excitingly, I'm also completing a minor in Studio Art, a subject I've loved forever.
+          Aside from reading, playing chess, and going on long walks, making art is my favorite pasttime, 
+          and it's definitely been the one I've been doing the longest. 
+          This website's purpose is to document my hobby so I can look back on my favorite pieces, skill development, and progression.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 <h2 align="center">𝑺𝑲𝑬𝑻𝑪𝑯𝑩𝑶𝑶𝑲</h2>
 
 <p align="center">
   <img src="IMG_4179.jpg" width="33%" alt="Artwork 1"/>   <img src="IMG_3904.PNG" width="24%" alt="Artwork 1"/>   <img src="IMG_7571.jpg" width="30%" alt="Artwork 1"/><br/><br/>
   <img src="IMG_2372.jpg" width="26%" alt="Artwork 2"/>   <img src="IMG_4137.jpg" width="25%" alt="Artwork 1"/>   <img src="IMG_2374.jpg" width="45%" alt="Artwork 1"/><br/><br/>
- <img src="sb4.jpeg" width="25%" alt="Artwork 1"/>   <img src="sb2.jpg" width="22%" alt="Artwork 1"/>   <img src="sb3.jpeg" width="24%" alt="Artwork 1"/>   <img src="sb1.jpg" width="25%" alt="Artwork 1"/><br/><br/><img src="IMG_4351.jpg" width="25%" alt="Artwork 2"/>   <img src="IMG_7568.jpg" width="24%" alt="Artwork 1"/>   <img src="IMG_7569.jpg" width="23%" alt="Artwork 3"/>   <img src="IMG_4720.jpg" width="25%" alt="Artwork 1"/>
+ <img src="sb4.jpeg" width="25%" alt="Artwork 1"/>   <img src="sb2.jpg" width="22%" alt="Artwork 1"/>   <img src="sb3.jpeg" width="25%" alt="Artwork 1"/>   <img src="sb1.jpg" width="25%" alt="Artwork 1"/><br/><br/><img src="IMG_4351.jpg" width="25%" alt="Artwork 2"/>   <img src="IMG_7568.jpg" width="24%" alt="Artwork 1"/>   <img src="IMG_7569.jpg" width="23%" alt="Artwork 3"/>   <img src="IMG_4720.jpg" width="25%" alt="Artwork 1"/>
   
 </p>
 ---
@@ -52,7 +77,7 @@
 <h2 align="center">𝑭𝑳𝑰𝑪𝑲𝑺</h2>
 
 <p align="center">
-  <img src="mod1.jpeg" width="25%" alt="Artwork 1"/>   <img src="mod2.jpeg" width="25%" alt="Artwork 1"/>   <img src="mod3.jpg" width="23%" alt="Artwork 2"/>   <img src="mod4.jpg" width="23%" alt="Artwork 2"/><br/><br/>
+  <img src="mod1.jpeg" width="24%" alt="Artwork 1"/>   <img src="mod2.jpeg" width="25%" alt="Artwork 1"/>   <img src="mod3.jpg" width="24%" alt="Artwork 2"/>   <img src="mod4.jpg" width="24%" alt="Artwork 2"/><br/><br/>
   <img src="IMG_3406.jpg" width="40%" alt="Artwork 1"/>   <img src="IMG_3583 (1).jpg" width="25%" alt="Artwork 1"/>   <img src="IMG_3428.jpg" width="25%" alt="Artwork 2"/><br/><br/>
   <img src="IMG_3373.jpg" width="25%" alt="Artwork 3"/>   <img src="IMG_3357.jpg" width="25%" alt="Artwork 1"/>   <img src="IMG_8951.jpg" width="43%" alt="Artwork 1"/>
 </p>
@@ -75,28 +100,6 @@
 
 ---
 
-<h2 align="center">𝑨𝑩𝑶𝑼𝑻</h2>
-
-<p align="center">
-  <div align="center">
-  <table style="border: none;">
-    <tr>
-      <td width="30%" align="center" style="border: none;">
-        <img src="E08FA552-DF5B-40D7-8753-B696321E9BA6.jpg" alt="Sample Art" width="80%">
-      </td>
-      <td width="60%" align="left" style="border: none;">
-        <p>
-          Howdy! I'm Guanyi Grace Li, a 20 year old senior at Texas A&M University pursuing 
-          a BBA in Accounting and MS in Financial Management.
-          More excitingly, I'm also completing a minor in Studio Art, a subject I've loved forever.
-          Aside from reading, playing chess, and going on long walks, making art is my favorite pasttime, 
-          and it's definitely been the one I've been doing the longest. 
-          This website's purpose is to document my hobby so I can look back on my favorite pieces, skill development, and progression.
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
   
 </p>
 <h2 align="center">𝑪𝑶𝑵𝑻𝑨𝑪𝑻</h2>
