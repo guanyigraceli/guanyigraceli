@@ -57,7 +57,7 @@
 
 <p align="center">
   <img src="mod1.jpeg" width="24%" alt="Artwork 1"/>   <img src="mod2.jpeg" width="25%" alt="Artwork 1"/>   <img src="mod3.jpg" width="24%" alt="Artwork 2"/>   <img src="mod4.jpg" width="24%" alt="Artwork 2"/><br/><br/>
-  <img src="m11.jpeg" width="24%" alt="Artwork 1"/>   <img src="m12.JPG" width="25%" alt="Artwork 1"/>   <img src="m14.jpg" width="24%" alt="Artwork 2"/>   <img src="m13.jpg" width="24%" alt="Artwork 2"/><br/><br/>
+  <img src="m11.jpeg" width="26%" alt="Artwork 1"/>   <img src="m12.JPG" width="25%" alt="Artwork 1"/>   <img src="m14.jpg" width="24%" alt="Artwork 2"/>   <img src="m13.jpg" width="22%" alt="Artwork 2"/><br/><br/>
   <img src="IMG_3406.jpg" width="42%" alt="Artwork 1"/>   <img src="IMG_3583 (1).jpg" width="25%" alt="Artwork 1"/>   <img src="IMG_3428.jpg" width="25%" alt="Artwork 2"/><br/><br/>
   <img src="IMG_3373.jpg" width="25%" alt="Artwork 3"/>   <img src="IMG_3357.jpg" width="25%" alt="Artwork 1"/>   <img src="IMG_8951.jpg" width="46%" alt="Artwork 1"/>
 </p>
