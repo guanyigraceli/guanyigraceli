@@ -35,7 +35,7 @@
 
 <p align="center">
   <img src="IMG_0021.jpg" width="27%" alt="Artwork 1"/>   <img src="IMG_4071.JPG" width="27%" alt="Artwork 1"/>   <img src="IMG_1895.jpg" width="28%" alt="Artwork 2"/><br/><br/>
-  <img src="IMG_7623.jpg" width="23%" alt="Artwork 1"/>   <img src="IMG_2364.jpg" width="42%" alt="Artwork 3"/>   <img src="IMG_7706.jpg" width="23%" alt="Artwork 1"/>
+  <img src="IMG_7623.jpg" width="24%" alt="Artwork 1"/>   <img src="IMG_2364.jpg" width="43%" alt="Artwork 3"/>   <img src="IMG_7706.jpg" width="23%" alt="Artwork 1"/>
 </p>
 
 
